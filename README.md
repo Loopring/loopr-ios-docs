@@ -42,7 +42,7 @@
 40. ~~添加过程中没有提示我symbol和digits。symbol应该是主动全大写。添加成功后，不应该停留在原页面。~~
 41. ~~manage wallet应该改为manage wallets~~
 42. ~~数据不可用图标和weth转换图标太像，应该换一个。~~
-43. 在setting页面，推广收益地址，字体太大。
+43. ~~在setting页面，推广收益地址，字体太大。~~
 44. ~~Convertion ration应该改为 conversion ratio~~
 45. 支持LRN绑定 (iwbrhwfy)
 46. 申请直接上appstore (Ruby)
