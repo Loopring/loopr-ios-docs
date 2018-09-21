@@ -123,13 +123,13 @@
 121. ~~face id的粗细和其他选项不一样~~
 122. Time to live应该改为expire
 123. 价格异常的时候，应该改为 warning: your price is x% lower/higher than the latest trading price, do you wish to continue?
-124. Placing orders 的提示语，应该改为Placing order is gas free.
+124. ~~Placing orders 的提示语，应该改为Placing order is gas free.~~
 125. 选择自定义时间，选择之后页面不实现custom后的值，再次选择后，也没有体现上次选的值
 126. 有的按钮，没有输入的时候，应该是默认disable的
 127. 数量的输入框，应该支持千位分隔符 “，”
 128. P2P页面，需要加一个参考价格。可以列cmc当前价，cmc24小时均价，cmc三日均价。点击一下自动计算另一个价格。
 129. 切换按钮，是不是放到两个输入框之间靠右对齐。
-130. 不支持的语言可以先去掉
+130. ~~不支持的语言可以先去掉~~
 131. 交易记录会有unsupport的，是什么意思
 131. 涨跌颜色没有区分。需要修改
 132. 剪切板，有合法的以太坊地址，切换到app的时候，需要询问是否要给这个地址转账
