@@ -67,9 +67,9 @@
 65. ~~在英文中，市场买卖页面，Amount的输入框有问题~~
 66. ~~app的涨幅，可以参考第三方~~
 67. ~~Typo Congradualations 应该是 Congratulations~~
-68. ~~There should be a way to swap Buy / Sell ~~
+68. ~~There should be a way to swap Buy / Sell~~
 69. ~~Loopr P2P Order should be Loopring P2P Order~~
-70. 查看合约地址页面，应该加个在etherscsn.io察看的按钮；钱包本身也应该能一键在etherscan.io查看 (iwbrhwfy)
+70. ~~查看合约地址页面，应该加个在etherscsn.io察看的按钮；钱包本身也应该能一键在etherscan.io查看~~
 71. p2p下单页面，要显示一个价格，否则还要自己算。最好中间也显示兑换价格。点击一下显示反向的比例
 72. 取消订单，现在是软取消。加上允许用户硬取消。UI上多个checkbox就可以。(iwbrhwfy)
 73. ~~交易确认页面，价差分成建议去掉。(Ruby)~~
