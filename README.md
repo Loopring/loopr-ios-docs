@@ -67,7 +67,7 @@
 65. ~~在英文中，市场买卖页面，Amount的输入框有问题~~
 66. ~~app的涨幅，可以参考第三方~~
 67. ~~Typo Congradualations 应该是 Congratulations~~
-68. There should be a way to swap Buy / Sell 
+68. ~~There should be a way to swap Buy / Sell ~~
 69. ~~Loopr P2P Order should be Loopring P2P Order~~
 70. 查看合约地址页面，应该加个在etherscsn.io察看的按钮；钱包本身也应该能一键在etherscan.io查看 (iwbrhwfy)
 71. p2p下单页面，要显示一个价格，否则还要自己算。最好中间也显示兑换价格。点击一下显示反向的比例
@@ -90,7 +90,7 @@
 88. 清除钱包数据，一定要增加指纹验证，强调是否备份
 89. 钱包首页，长按上面的卡片最好能copy地址
 90. 市场交易对详情页，24小时涨跌，最好用颜色突出一下
-91. 英文，绿涨红跌
+91. ~~英文，绿涨红跌~~
 92. ~~市场交易对详情页， 买入价格可以精简为买价~~
 93. 市场交易对详情页， 上面的卡片，背景去掉，字看不清。需按设计更新
 94. 已经成交的订单，扫码还会显示。完全成交后，最好在这个位置就掐断，直接提示该订单已被完成成交，可让人有清爽的感觉。
@@ -105,18 +105,18 @@
 103. Create Password页面，密码提示太长
 104. 备份助记词页面，中间的title去掉。助记词的字体对比度不够，看着有点累，最好时纯白色。title改为backup mnemonic. 
 105. delete this wallet 需要左对齐，字体颜色要变成红色
-106. 差价分成，去掉。用默认值50%
+106. ~~差价分成，去掉。用默认值50%~~
 107. 合约版本页面，可以让拍照。现在跳出来时提醒对话框
-108. 英文 Share app & 改成，Share this app to ...
-109. 可以把my income address删掉
+108. ~~英文 Share app & 改成，Share this app to ...~~
+109. ~~可以把my income address删掉~~
 110. WETH页面，提示语，最好前面加上 “What is WETH", 不然那里的it不知道指的是什么
 111. WETH页面，输入框这里字体也要调整
 112. 多数内容的字体，应该是默认粗细
 113. Convert WETH的确认页面，title不全
 114. Convert WETH的确认页面，字体页太粗，title字体粗细可以
-115. order history页面，tab finished 改成 completed和里面的状态对应
+115. ~~order history页面，tab finished 改成 completed和里面的状态对应~~
 116. order history页面， 把lrc作为单位放后面就好。需要按设计更新。
-117. max应该用黄色或者绿色
+117. ~~max应该用黄色或者绿色~~
 118. 地址分享页面，title应该是 “我的以太坊钱包地址”
 119. 英文和日语的字体粗细不一样。英文的字体效果比较好
 120. 截屏后，助记词变化没有提醒。
