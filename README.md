@@ -102,11 +102,11 @@
 100. 下方的tab，放上文字
 101. weth和eth页面上方，我们还要加上一个convert按钮
 102. p2p订单被吃掉，但没有收到通知
-103. Create Password页面，密码提示太长
-104. 备份助记词页面，中间的title去掉。助记词的字体对比度不够，看着有点累，最好时纯白色。title改为backup mnemonic. 
-105. delete this wallet 需要左对齐，字体颜色要变成红色
+103. ~~Create Password页面，密码提示太长~~
+104. ~~备份助记词页面，中间的title去掉。助记词的字体对比度不够，看着有点累，最好时纯白色。title改为backup mnemonic.~~
+105. ~~delete this wallet 需要左对齐，字体颜色要变成红色~~
 106. ~~差价分成，去掉。用默认值50%~~
-107. 合约版本页面，可以让拍照。现在跳出来时提醒对话框
+107. ~~合约版本页面，可以让拍照。现在跳出来时提醒对话框~~
 108. ~~英文 Share app & 改成，Share this app to ...~~
 109. ~~可以把my income address删掉~~
 110. WETH页面，提示语，最好前面加上 “What is WETH", 不然那里的it不知道指的是什么
